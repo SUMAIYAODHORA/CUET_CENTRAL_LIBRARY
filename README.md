@@ -17,6 +17,8 @@
 
 ## Login panel
 ![Picture8](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/f55503d5-3b00-4cc6-8388-46c1d98f02cc)
+# ADMIN PANEL:
+
 ## Admin Profile
 
 <img width="611" alt="Picture9" src="https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/45aca1b6-19c6-428f-bc71-0076f2cd6509">

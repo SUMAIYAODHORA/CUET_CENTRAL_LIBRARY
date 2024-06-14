@@ -1,3 +1,3 @@
-#Install xampp
+# Install xampp
 
-#Run the indexx.php file into localhost
+# Run the indexx.php file into localhost

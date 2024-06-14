@@ -44,3 +44,20 @@
 ![Picture18](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/4848f1b4-7393-413e-a204-11c0e2dfb440)
 ## Pdf History
 ![Picture19](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/d17fbb77-7274-4d6d-82f7-c1ac38b6cf42)
+
+# STUDENT PANEL:
+
+## Student Profile
+![Picture20](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/674f1b06-9302-4f1e-b80b-e2edbeeb26e4)
+## Messages to Students
+![Picture21](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/b8cbcddb-6430-40dc-b598-1ac12282d8a8)
+## All Book Details
+![Picture22](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/b6e7da01-9a6d-49dc-8733-9757c4c37285)
+## Borrowed Books Details
+![Picture23](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/bff43cba-1c74-4cf4-a658-85acd6943781)
+## Recommended Books Details
+![Picture24](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/0f3a4c59-922d-450c-8e6f-b25f50a57668)
+## Currently Issued Books
+![Picture25](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/8fe4bd30-66c4-48ac-a843-9ea71238faa9)
+## Available PDFs
+![Picture26](https://github.com/TanzilaFardousPuspo/CUET_CENTRAL_LIBRARY/assets/150069606/9c794cf9-bf85-4ad5-9445-024e4293a57c)

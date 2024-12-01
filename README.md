@@ -1,5 +1,6 @@
 # CUET CENTRAL LIBRARY 
 #Developed by Tanzila Fardous Puspo, 18 batch, CSE, CUET, Student ID: 1804121
+#Developed by Sumaiya Rahman Aodhora, 18 batch, CSE, CUET, Student ID: 1804127
 ## Tools: HTML, CSS, PHP, JavaScript, MySQL
 
 ## Install xampp
